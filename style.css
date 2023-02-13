@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+color: red;
+
+
+font-style: bold;
+font-stretch: semi-expanded;
+text-shadow: 2px 2px black;
+font-size: 50px;
+}
