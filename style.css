@@ -24,3 +24,12 @@ h3{
 font-stretch: semi-expanded;
 text-shadow: 2px 2px black;
 }
+
+p {
+color: white;
+font-size: 35;
+font-style: bold;
+font-stretch: semi-expanded;
+text-shadow: 2px 2px purple;
+
+}
