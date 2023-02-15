@@ -33,3 +33,6 @@ font-stretch: semi-expanded;
 text-shadow: 2px 2px purple;
 
 }
+a.email-link {
+  color: red; /* Change this to the color of your choice */
+}
